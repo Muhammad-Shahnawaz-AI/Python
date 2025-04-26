@@ -1,0 +1,67 @@
+Python
+Developed by Guido Van Rossum. He was an engineer in google but now he is executive engineer in twitter.
+To create python file .py extension is used
+To output print("your message")
+print is a built in function in python
+Character set
+letters A-Z a-Z
+digits 0-9
+special Character /*-+ etc
+all codes of ASCII and Uni codes
+Variable: A variable is a name given to a memory location in a program
+variable = value general form
+variable value acn be changed at any instant
+value must be on right side of variable this is called assignment rule
+only underscore symbol can be a part of your variable name
+variable name cannot start with a digit
+good programming rule is the variable name must be simple, short, and relevant or meaningfull
+type(variable) is a function used to find theb datatype of the variable
+Data types
+integers 0,1,-1
+string 'sentence' "word" '''string'''
+float 3.666 -2.6 9.565
+Boolean True False
+None
+Keywords:
+and
+as
+assert
+break
+class
+continue
+def
+del 
+elif
+else
+except
+finally
+False
+for
+from
+global
+if
+import
+in
+is
+lamda
+nonlocal
+None
+not
+or
+pass
+raise
+return
+True
+try
+with
+while
+yield
+* python is case sensitive language
+# comment single line
+''' comment multiline comment'''
+"""comment multiline comment"""
+ctrl + back slash for multiline comment
+
+*An operaor is a symbol that performs a certain operation between operands
+Arithmetic operators + - * / % result of division is always in floating numbers
+Relational operaor == != >= > <= < they return values in boolean

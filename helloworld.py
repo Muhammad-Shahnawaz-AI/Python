@@ -1,0 +1,7 @@
+print("Hello world")
+print("My name is Muhammad Shahanawaz")
+print("I am learning python programming")
+print("I am learning python","now")
+print(2)
+print(5)
+print(5+6)
