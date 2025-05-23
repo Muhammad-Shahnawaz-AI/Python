@@ -1,0 +1,2 @@
+This is an example to show how to open a file and read.
+This is the second line of the text.I love pythonThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endstep by step python are coming to me hahahastep by step python are coming to me hahahastep by step python are coming to me hahahastep by step python are coming to me hahahastep by step python are coming to me hahahastep by step python are coming to me hahahastep by step python are coming to me hahaha
